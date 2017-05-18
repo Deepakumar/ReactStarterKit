@@ -53,6 +53,7 @@ var notify = function(error) {
 };
 
 //Start a local development server
+//
 gulp.task('connect', function() {
 	connect.server({
 		root: ['dist'],
