@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ReactStarter.iml" filepath="$PROJECT_DIR$/.idea/ReactStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-flux-building-applications-master.iml" filepath="$PROJECT_DIR$/.idea/react-flux-building-applications-master.iml" />
     </modules>
   </component>
 </project>
